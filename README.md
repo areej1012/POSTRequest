@@ -1,3 +1,3 @@
 # POSTRequest
-master brancg -> POST Request Practice
-update_delete => POST Request App Revisited
+master branch -> POST Request Practice
+update_delete branch => POST Request App Revisited
